@@ -1,0 +1,70 @@
+body {
+    height: 5000px;
+}
+.bg-color-1 {
+    background-color: #f62656;
+}
+.bg-color-2, header ul.nav li:last-child>a{
+    background-color: #1d2b62 !important;
+}
+.color-1 {
+    color: #f62656;
+}
+.color-2{
+    color: #1d2b62 !important;
+}
+.f-o {
+    font-family: 'Open Sans', sans-serif;
+}
+.f-m {
+    font-family: 'Montserrat', sans-serif;
+}
+.f-11 {
+    font-size: 11px;
+}
+.f-14 {
+    font-size: 14px;
+}
+.f-17 {
+    font-size: 17px;
+}
+.f-18 {
+    font-size: 18px;
+}
+.f-24 {
+    font-size: 24px;
+}
+.f-35 {
+    font-size: 35px;
+}
+.f-36 {
+    font-size: 36px;
+}
+.f-55 {
+    font-size: 55px;
+}
+.f-reg {
+    font-weight: 400;
+}
+.f-med {
+    font-weight: 500;
+}
+.f-semi {
+    font-weight: 600;
+}
+.f-bold {
+    font-weight: 700;
+}
+.pointer {
+    cursor: pointer;
+}
+.header-background {
+    background-image: url(../img/headerBg.jpg);
+    background-attachment: fixed;
+    background-size: cover
+}
+@media (max-width: 768px) {
+    .border-none {
+        border: none !important;
+    }
+}

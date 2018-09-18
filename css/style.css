@@ -25,14 +25,29 @@ body {
 .f-14 {
     font-size: 14px;
 }
+.f-15 {
+    font-size: 15px;
+}
 .f-17 {
     font-size: 17px;
 }
 .f-18 {
     font-size: 18px;
 }
+.f-20 {
+    font-size: 20px;
+}
+.f-21 {
+    font-size: 21px;
+}
+.f-23 {
+    font-size: 23px;
+}
 .f-24 {
     font-size: 24px;
+}
+.f-25 {
+    font-size: 25px;
 }
 .f-35 {
     font-size: 35px;
@@ -58,10 +73,48 @@ body {
 .pointer {
     cursor: pointer;
 }
+.bg-none {
+    background: none !important;
+}
+.hight-100 {
+    height: 100%;
+}
+.z-100 {
+    z-index: 100;
+}
+.z-200 {
+    z-index: 200;
+}
+.opac-75 {
+    opacity: 0.75;
+}
+.hight-249 {
+    height: 249px
+}
+.hight-285 {
+    height: 285px;
+}
+.bord-bto::after {
+    content: "";
+    position: absolute;
+    bottom: -6px;
+    left: 0;
+    width: 37%;
+    height: 2px;
+    background-color: #f62656;
+}
+.of-y-x {
+    overflow-x: hidden
+}
+/* header */
 .header-background {
     background-image: url(../img/headerBg.jpg);
     background-attachment: fixed;
     background-size: cover
+}
+/* about */
+.over:hover > div {
+    display: flex !important;
 }
 @media (max-width: 768px) {
     .border-none {

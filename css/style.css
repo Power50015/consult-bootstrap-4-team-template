@@ -1,5 +1,5 @@
 body {
-    height: 5000px;
+    height: 10000px;
 }
 .bg-color-1 {
     background-color: #f62656;
@@ -88,8 +88,14 @@ body {
 .z-200 {
     z-index: 200;
 }
+.opac-100 {
+    opacity: 1;
+}
 .opac-75 {
     opacity: 0.75;
+}
+.opac-55 {
+    opacity: 0.55;
 }
 .hight-249 {
     height: 249px
@@ -164,6 +170,12 @@ body {
 /* Services Working*/
 .top-40{
     top: -40px;
+}
+/**/
+.bg-img-1 {
+    background-image: url(../img/contactImg.jpg);
+    background-attachment: fixed;
+    background-size: cover
 }
 @media (max-width: 768px) {
     .border-none {

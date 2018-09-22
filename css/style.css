@@ -1,11 +1,11 @@
-body {
-    height: 10000px;
-}
 .bg-color-1 {
     background-color: #f62656;
 }
 .bg-color-2, header ul.nav li:last-child>a{
     background-color: #1d2b62 !important;
+}
+.bg-color-3 {
+    background-color: #151515 !important;
 }
 .color-1 {
     color: #f62656;
@@ -21,6 +21,9 @@ body {
 }
 .f-11 {
     font-size: 11px;
+}
+.f-13 {
+    font-size: 13px;
 }
 .f-14 {
     font-size: 14px;
@@ -97,6 +100,9 @@ body {
 .opac-55 {
     opacity: 0.55;
 }
+.list-pull {
+    list-style-type: disc;
+}
 .hight-249 {
     height: 249px
 }
@@ -171,11 +177,21 @@ body {
 .top-40{
     top: -40px;
 }
-/**/
+/*contactImg1*/
 .bg-img-1 {
     background-image: url(../img/contactImg.jpg);
     background-attachment: fixed;
     background-size: cover
+}
+/*contactImg1*/
+.bg-img-2 {
+    background-image: url(../img/contact2.jpg);
+    background-attachment: fixed;
+    background-size: cover
+}
+/*footer*/
+footer ul .nav-link:hover {
+    color: #f62656 !important;
 }
 @media (max-width: 768px) {
     .border-none {

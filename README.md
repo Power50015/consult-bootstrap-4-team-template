@@ -3,7 +3,7 @@ consult
 This is Bootstrap 4 Theme
 95% of css is Bootstrap4 classes
 
-For Live Preview : http://powerware.site/power/consult/
+For Live Preview : https://power50015.github.io/consult/
 
 Template Features:
 

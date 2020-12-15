@@ -1,6 +1,6 @@
 # consult bootstrap 4 team template
 
-HTML5, CSS3 Bootstrap 4 jQuery v2 Fully Responsive Easy to Customizable W3C Validated Code Minimal and Clean Free Google Fonts. All files are well commented Displays well in all modern browsers and devices
+HTML5, CSS3 Bootstrap 4 jQuery Fully Responsive Easy to Customizable W3C Validated Code Minimal and Clean Free Google Fonts. All files are well commented Displays well in all modern browsers and devices
 
 ![Preview Img](UX/screen.png)
 

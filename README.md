@@ -36,7 +36,7 @@ For Live Preview :https://consult-bootstrap-4-team-template.netlify.app/
 
 ## INTRODUCTION & FEATURE
 
-InteractiveAgency is a Creative & Modern One Page Template is a perfect template for Business Startups, web
+Creative & Modern One Page Template is a perfect template for Business Startups, web
 studio and creative agencies. Responsive based on bulma. This is one page for placing your
 information. All files and code has been well organized and nicely commented for easy to customize.
 

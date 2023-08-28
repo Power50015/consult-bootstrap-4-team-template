@@ -4,7 +4,7 @@ HTML5, CSS3 Bootstrap 4 jQuery Fully Responsive Easy to Customizable W3C Validat
 
 ![Preview Img](UX/screen.png)
 
-For Live Preview :https://consult-bootstrap-4-team-template.netlify.app/
+For Live Preview :https://consult-bootstrap-4-team-template.mohamed-ashamallah.com/
 
 ## Quickstart
 
